@@ -12,7 +12,7 @@ So, don't feel that you have to take the first opportunity that comes along. Loo
 
 Perhaps the most important thing to consider at the front door of any opportunity is the power ladder. The fact of the matter is: if you can't tolerate or respect those who would be your superiors, you'll probably be unhappy under abhorrent figures of authority.
 
-Therefore, you should be interviewing your future boss(es) (as many as possible) as they interview you. Your peers are less important: sibling rivalries are a fact of life. We have to put up with different personalities throughout, and that's okay. We learn from it. As long as you feel that you can cultivate an amicable relationship with your future boss figure, then a job opportunity just comes down to weighing its tangible benefits...
+Therefore, you should be interviewing your future boss(es) (as many as possible) as they interview you. Your peers are less important: sibling rivalries are a fact of life. We have to put up with different personalities, and that's okay. We learn from it. As long as you can cultivate an amicable relationship with your future boss figure, then a job opportunity just comes down to weighing its tangible benefits...
 
 ## Jobs have many facets
 
