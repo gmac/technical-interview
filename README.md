@@ -71,23 +71,19 @@ These are the old classic "run with it" questions. There ARE NO CORRECT ANSWERS.
 
 ## 5. Coding
 
-### *Write a function that tests…*
-
-**...if a string contains words from a list of dirty words**. This is a very common style of coding question: the question can be applied to any programming language (Ruby, JavaScript, etc.), and is pretty straight forward for a candidate of any skill level to complete a basic implementation of. However, this question can also scale up to probe the candidate's knowledge of time complexity and Big-O, and challenge the candidate to solve the problem with faster and more efficient solutions, or with additional requirements.
-
 ### *Write/Whiteboard the code for…*
 
 **...a jQuery Deferred (Promise) object**. This is testing the candidate's conceptual understanding of how a common library tool works under the hood (by breaking the tool down into plain code). Advice: ask if you can reference the tool's documentation, rather than going by memory on how the tool works.
 
 When asked to complete this on a whiteboard, the interview panel is reviewing the candidate's attention to syntax outside of a text editor. These two factors together are HARD.
 
+### *Write a function that tests…*
+
+**...if a string contains words from a list of dirty words**. This is a very common style of coding question: the question can be applied to any programming language (Ruby, JavaScript, etc.), and is pretty straight forward for a candidate of any skill level to complete a basic implementation of. However, this question can also scale up to probe the candidate's knowledge of time complexity and Big-O, and challenge the candidate to solve the problem with faster and more efficient solutions, or with additional requirements.
+
 ### *Given a test suite, make all tests pass for…*
 
 **...an implementation of the Underscore "debounce" method**. This question assesses the candidate's code competency while also reviewing their comfort within a test suite. This is a very fair way of presenting code challenges, given that the candidate has a defined set of requirements and a clear measure of completion when all tests pass.
-
-### *Pair program a…*
-
-**…simple statistics service**. This offers a superb one-on-one assessment opportunity for both interview parties. The interviewer gets to watch the interviewee work first hand, while the interviewee gets a tangible feel for the team they're applying to work with. Team personality fits tend to be obviated, and the interviewee tends to feel more collaborative than "on the spot" during the interview.
 
 ### *Show and tell your code…*
 
@@ -102,6 +98,10 @@ Given that universal truth, an excellent strategy here is to –ironically– sp
 3. Describes your solution for solving the problem.
 
 After leading this discussion, quickly show some code that supports your discussion points. The unfamiliar code still won't mean much to the interview panel, so you'll mostly just be showing them your syntax and commenting styles. If those look good, then you've probably passed with flying colors.
+
+### *Pair program a…*
+
+**…simple statistics service**. This offers a superb one-on-one assessment opportunity for both interview parties. The interviewer gets to watch the interviewee work first hand, while the interviewee gets a tangible feel for the team they're applying to work with. Team personality fits tend to be obviated, and the interviewee tends to feel more collaborative than "on the spot" during the interview.
 
 ### *Reproduce and defend…*
 
