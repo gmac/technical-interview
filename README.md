@@ -51,6 +51,12 @@ Hitting some dead-ends is inevitable, so they want to know where you've hit a wa
 
 This stale old Microsoft question embodies the theme behind problem solving questions: they want to understand your general approach to critical thinking and logical reasoning.
 
+### *How many poodles reside in North America?*
+
+These are the old classic "run with it" questions. There ARE NO CORRECT ANSWERS. As an intelligent software engineer, it's your job to just run with directions that quantify the problem:
+
+*"Hmmm… Let's average the number of breeders per state & province, then multiply that by an estimated number of pup-bearing bitches per breeder, multiplied by the average litter size, and then the inception interval. Then we'll need to assume an average lifespan of 15 years per poodle, removing the deceased from the birthrate until we reach a rough population size. However, we should also anticipate the establishment of new breeders over time, thus adding a population growth rate…"*
+
 ### *How would you approach…*
 
 **…infinite scrolling with a browser-based scrollbar?** You'll commonly be presented with a technical problem that the interviewers have already encountered and solved within their own domain. Now they want to hear how you'd approach the problem. This is a fantastic question, because it's an opportunity for two-sided assessment: they learn about your thought process, and you learn about both their work and their thinking. You should be as (silently) critical of their solution to the problem as they are towards yours.
@@ -62,12 +68,6 @@ This stale old Microsoft question embodies the theme behind problem solving ques
 ### *Design a network application for…*
 
 **…the Shazam music service.** This has similar intent to the software application question, but is BIGGER. This is a full-stack question that requires thinking about the problem across multiple clients, servers, databases, networks, and third-party APIs all at once.
-
-### *How many poodles reside in North America?*
-
-These are the old classic "run with it" questions. There ARE NO CORRECT ANSWERS. As an intelligent software engineer, it's your job to just run with directions that quantify the problem:
-
-*"Hmmm… Let's average the number of breeders per state & province, then multiply that by an estimated number of pup-bearing bitches per breeder, multiplied by the average litter size, and then the inception interval. Then we'll need to assume an average lifespan of 15 years per poodle, removing the deceased from the birthrate until we reach a rough population size. However, we should also anticipate the establishment of new breeders over time, thus adding a population growth rate…"*
 
 ## 5. Coding
 
