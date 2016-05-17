@@ -1,6 +1,6 @@
 # The Technical Interview
 
-**Author's Note:**
+![](http://f.cl.ly/items/2Y3e3L2T1v2S1i3Y0w42/687474703a2f2f692e696d6775722e636f6d2f6a3774556f5a582e706e67.png)
 
 This document assembles a general overview of technical interview questions. Obviously, this is neither canonical nor verbatim to what you'll get in an actual interview. However, interview questions do tend to be thematic: if you can recognize the underlying theme of a question, that can help you formulate a successful answer. As for the coding questions… well, sometimes there are no alternatives but to think on your feet!
 
