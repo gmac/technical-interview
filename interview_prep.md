@@ -15,7 +15,9 @@ Here are some items to have ready before going into a technical interview sessio
   1. Identify a single, finite problem that you encountered.
   2. Identify obstacles that made this problem unique and challenging.
   3. Indentify your thought processes that led you to a solution.
-  4. Present the final code solution. Keep it brief. Code is boring and ugly, and interviewer don't actually care to see it. If you've succeeded at steps 1-3, then step-4 is a formality. If you failed at steps 1-3, then step-4 prolongs a bad situation. 
+  4. Present the final code solution. Keep it brief. Code is boring and ugly, and interviewer don't actually care to see it. If you've succeeded at steps 1-3, then step-4 is a formality. If you failed at steps 1-3, then step-4 prolongs a bad situation.
+
+* **Consider about your skills trajectory**, see: [https://coggle.it/diagram/Vz9LvW8byvN0I38x](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
 
 ## Serious Prep
 
